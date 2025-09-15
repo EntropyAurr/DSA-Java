@@ -7,7 +7,21 @@
       <module fileurl="file://$PROJECT_DIR$/03-priority-queues/03-priority-queues.iml" filepath="$PROJECT_DIR$/03-priority-queues/03-priority-queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-linked-lists/04-linked-lists.iml" filepath="$PROJECT_DIR$/04-linked-lists/04-linked-lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-dynamic-arrays/05-dynamic-arrays.iml" filepath="$PROJECT_DIR$/05-dynamic-arrays/05-dynamic-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-linked_lists-array_lists/06-linked_lists-array_lists.iml" filepath="$PROJECT_DIR$/06-linked_lists-array_lists/06-linked_lists-array_lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-linear-search/07-linear-search.iml" filepath="$PROJECT_DIR$/07-linear-search/07-linear-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-binary-search/08-binary-search.iml" filepath="$PROJECT_DIR$/08-binary-search/08-binary-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-inerpolation-search/09-inerpolation-search.iml" filepath="$PROJECT_DIR$/09-inerpolation-search/09-inerpolation-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-bubble-sort/10-bubble-sort.iml" filepath="$PROJECT_DIR$/10-bubble-sort/10-bubble-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-selection-sort/11-selection-sort.iml" filepath="$PROJECT_DIR$/11-selection-sort/11-selection-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-insertion-sort/12-insertion-sort.iml" filepath="$PROJECT_DIR$/12-insertion-sort/12-insertion-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-recursion/13-recursion.iml" filepath="$PROJECT_DIR$/13-recursion/13-recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-merge-sort/14-merge-sort.iml" filepath="$PROJECT_DIR$/14-merge-sort/14-merge-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-quick-sort/15-quick-sort.iml" filepath="$PROJECT_DIR$/15-quick-sort/15-quick-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-hash-tables/16-hash-tables.iml" filepath="$PROJECT_DIR$/16-hash-tables/16-hash-tables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-adjacency-matrix/17-adjacency-matrix.iml" filepath="$PROJECT_DIR$/17-adjacency-matrix/17-adjacency-matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-adjacency-list/18-adjacency-list.iml" filepath="$PROJECT_DIR$/18-adjacency-list/18-adjacency-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>

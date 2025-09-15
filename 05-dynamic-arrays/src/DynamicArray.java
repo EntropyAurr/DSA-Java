@@ -38,8 +38,6 @@ public class DynamicArray {
       for (int i = 0; i < size; i++) {
          if (array[i] == data) {
             for (int j = 0; j < size - i - 1; j++) {
-               // j < size - i - 1 <=> i + j < size -1
-               // i + j: position from the removed element (i) to the RIGHT side that elements will move in
                array[i + j] = array[i + j + 1]; // shift elements over to the LEFT after removing element
             }
 
